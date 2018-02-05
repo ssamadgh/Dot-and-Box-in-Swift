@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Dots(Swift).xcodeproj">
+      location = "self:/Volumes/My_Datas/Xcode&apos;s Data/Dots(Swift)/DotsSwift.xcodeproj">
    </FileRef>
 </Workspace>

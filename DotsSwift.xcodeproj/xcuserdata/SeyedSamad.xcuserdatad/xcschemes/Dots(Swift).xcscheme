@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0720"
+   LastUpgradeVersion = "0830"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4FC5A641C1947E50012F249"
-               BuildableName = "Dots(Swift).app"
-               BlueprintName = "Dots(Swift)"
-               ReferencedContainer = "container:Dots(Swift).xcodeproj">
+               BuildableName = "DotsSwift.app"
+               BlueprintName = "DotsSwift"
+               ReferencedContainer = "container:DotsSwift.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4FC5A781C1947E50012F249"
-               BuildableName = "Dots(Swift)Tests.xctest"
-               BlueprintName = "Dots(Swift)Tests"
-               ReferencedContainer = "container:Dots(Swift).xcodeproj">
+               BuildableName = "DotsSwift.xctest"
+               BlueprintName = "DotsSwiftTests"
+               ReferencedContainer = "container:DotsSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4FC5A831C1947E50012F249"
-               BuildableName = "Dots(Swift)UITests.xctest"
-               BlueprintName = "Dots(Swift)UITests"
-               ReferencedContainer = "container:Dots(Swift).xcodeproj">
+               BuildableName = "DotsSwift.xctest"
+               BlueprintName = "DotsSwiftUITests"
+               ReferencedContainer = "container:DotsSwift.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4FC5A641C1947E50012F249"
-            BuildableName = "Dots(Swift).app"
-            BlueprintName = "Dots(Swift)"
-            ReferencedContainer = "container:Dots(Swift).xcodeproj">
+            BuildableName = "DotsSwift.app"
+            BlueprintName = "DotsSwift"
+            ReferencedContainer = "container:DotsSwift.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4FC5A641C1947E50012F249"
-            BuildableName = "Dots(Swift).app"
-            BlueprintName = "Dots(Swift)"
-            ReferencedContainer = "container:Dots(Swift).xcodeproj">
+            BuildableName = "DotsSwift.app"
+            BlueprintName = "DotsSwift"
+            ReferencedContainer = "container:DotsSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4FC5A641C1947E50012F249"
-            BuildableName = "Dots(Swift).app"
-            BlueprintName = "Dots(Swift)"
-            ReferencedContainer = "container:Dots(Swift).xcodeproj">
+            BuildableName = "DotsSwift.app"
+            BlueprintName = "DotsSwift"
+            ReferencedContainer = "container:DotsSwift.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
